@@ -169,7 +169,7 @@ An academic project concept focused on supporting elderly people living with dem
 ## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ananyasnayak11/ananyasnayak11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/ananyasnayak11/ananyasnayak11/output/github-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
