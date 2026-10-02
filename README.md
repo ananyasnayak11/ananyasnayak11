@@ -95,21 +95,6 @@ Analyzed transaction-related data to identify patterns associated with potential
 
 ---
 
-### 🧠 VIHARA — AI-Powered Cognitive & Safety Assistance
-
-An academic project concept focused on supporting elderly people living with dementia through technology.
-
-**Key areas:**
-
-- 🧩 Cognitive activities
-- 🔔 Personalized reminders
-- 🧠 Memory assistance
-- 🎙️ Voice interaction
-- 👨‍👩‍👧 Caregiver support
-- 🔐 Privacy and safety
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
